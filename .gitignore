@@ -1,0 +1,11 @@
+
+*.pyc
+
+
+__pycache__/
+
+
+myapp/migrations/*.pyc
+
+
+mysite/__pycache__/
